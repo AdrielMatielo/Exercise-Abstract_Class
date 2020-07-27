@@ -33,9 +33,5 @@ public class Individual extends Taxpayer{
 			return getAnualIncome()*0.20 - healthExpensesDiscount();
 		}
 	}
-	
-	
-	
-	
-	
+		
 }
